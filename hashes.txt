@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Handle on You
+
+This log tracks the cryptographic history and versioning for the song **Handle on You** (handle-on-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:33:56.138838 | `v1` | `9e1da8e047f55722a3064d08beb51a1ad53403462574d2b0f2687f1b2900efb8` | `ecdf670368dd629d5d858d8b98e226a2a76b7a387f6fb19490241576b11f0ef4` | `2026-05-23_handle-on-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
