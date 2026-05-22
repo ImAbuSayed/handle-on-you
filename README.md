@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/handle-on-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Handle on You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/handle-on-you/) |
+| **Get License** | [Music Rights & Licensing for Handle on You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/handle-on-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want to pull you close until the shadows bend
+> We got the moonlight showing where the borders end
+> Don't need a compass now, I'm letting instinct steer
+> This is the exact moment I've been craving all year
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
